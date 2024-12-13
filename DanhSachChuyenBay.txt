@@ -1,0 +1,4 @@
+"CB001", "Vietnam Airlines", "Hanoi", "HCMC", LocalDateTime.now(), LocalDateTime.now().plusHours(2), 150, 2000000
+"CB002", "VietJet", "HCMC", "Phu Quoc", LocalDateTime.now().plusHours(3), LocalDateTime.now().plusHours(5), 180, 1500000
+"CB003", "Bamboo Airways", "Da Nang", "Nha Trang", LocalDateTime.now().plusHours(1), LocalDateTime.now().plusHours(4), 200, 2500000
+"CB004", "Vietravel Airlines", "Hanoi", "Can Tho", LocalDateTime.now().plusHours(5), LocalDateTime.now().plusHours(7), 160, 2200000
