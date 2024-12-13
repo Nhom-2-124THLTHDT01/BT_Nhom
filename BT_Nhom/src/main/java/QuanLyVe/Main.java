@@ -11,7 +11,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         quanLyChuyenBay.Docfile();
 
-
         int luaChon;
         do {
             System.out.println("\n--- Quan Ly Ve May Bay ---");

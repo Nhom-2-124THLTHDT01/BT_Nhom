@@ -18,7 +18,7 @@ public class QuanLyChuyenBay {
 
     public void Docfile() {
         try {
-            Path path = Path.of("D:\\Tai_lieu_truong-Nam2-Ky1\\TH_LTHDT(Java)\\Net.bean\\BT_Nhom\\src\\main\\java\\QuanLyVe\\DSChuyenBay.txt");
+            Path path = Path.of("D:\\VSCODE\\Java\\BT_Nhom\\BT_Nhom\\src\\main\\java\\QuanLyVe\\DSChuyenBay.txt");
             List<String> dscb = Files.readAllLines(path);
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss dd-MM-yyyy");
             for (String data_cb : dscb) {
